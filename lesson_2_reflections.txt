@@ -20,3 +20,4 @@ the diagram the way we do?
 	A new branch called master that includes all modifications of the other branch. We represent it in that way because it's easier to understand the union of two branches.
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+	It's very comfortable that the merges do it on his own that makes that i spend that time in another task, but if the merge its automatically maybe in some ocations it will be problems, conflict problems and if we do this manually we always know how to avoid conflicts.
