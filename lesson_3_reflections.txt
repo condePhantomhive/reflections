@@ -16,3 +16,8 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     You can know if the project has changed since the last time you see it. So you can prevent conflict problems.
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+    I would stay in person with the people who's gonna collabotate with me i think its a lose of time
